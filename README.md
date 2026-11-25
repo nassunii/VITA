@@ -1,7 +1,5 @@
 # VITA: Visual In-image Text Analysis on Vision-Language Models
 
-Code for generating the VITA image dataset.
-
 We render the Introduction of recent arXiv papers as images in three conditions:
 
 | Condition | Description |
