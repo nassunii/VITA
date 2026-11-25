@@ -1,4 +1,4 @@
-# VITA: Color Bias in Vision-Language Models via Visual Prompts
+# VITA: Visual In-image Text Analysis on Vision-Language Models
 
 Code for generating the VITA image dataset.
 
